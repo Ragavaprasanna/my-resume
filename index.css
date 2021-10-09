@@ -1,0 +1,150 @@
+#resume{
+    color:blue;
+    text-align:center;
+    font-size: x-large;
+}
+#jillu{
+    width:125px;
+    text-align:right;
+}
+
+
+#name:hover{
+    background-color: red;
+    color:white;
+    display:inline-block;
+}
+#name{
+    height: 100px;
+    width: 200px;
+}
+#prasanna{
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#info{
+    border-collapse: collapse;
+}
+#info th,#info td{
+    border:2px solid black;
+}
+#info th{
+    background-color:yellowgreen;
+}
+
+#info:hover{
+    background-color:black;
+    color:red;
+}
+#info{
+    height: 100px;
+    width:100px;
+}
+#but{
+    background-color:green;
+    color:white;
+    font-size: 20px;
+    border:none;
+    padding:16px;
+    cursor:pointer;
+    border-radius: 10%;
+}
+#drop:hover #but{
+    background-color:black;
+    color:white;
+}
+#drop{
+    position: relative;
+    display: inline-block;
+}
+#menu{
+    display: none;
+    position:absolute;
+    background-color: wheat;
+    width:160px;
+}
+#menu a{
+    color:black;
+    padding:12px 16px;
+    text-decoration: none;
+    display:block;
+}
+menu a:hover{
+    background-color: green;
+}
+#drop:hover #menu{
+    display:block;
+}
+
+#but1{
+    background-color:green;
+    color:white;
+    font-size: 20px;
+    border:none;
+    padding:16px;
+    cursor:pointer;
+    border-radius: 10%;
+}
+#drop1:hover #but1{
+    background-color:black;
+    color:white;
+}
+#drop1{
+    position: relative;
+    display: inline-block;
+}
+#menu1{
+    display: none;
+    position:absolute;
+    background-color: orangered;
+    width:160px;
+}
+#menu a{
+    color:black;
+    padding:12px 16px;
+    text-decoration:none;
+    display:block;
+}
+menu a:hover{
+    background-color: green;
+}
+#drop1:hover #menu1{
+    display:block;
+}
+#best{
+    border-collapse: collapse;
+
+}
+#best th, #best td{
+    border:2px solid black;
+    
+}
+#best th{
+    background-color:yellowgreen;
+}
+
+#best:hover{
+    background-color:black;
+    color:red;
+}
+#best{
+    height: 100px;
+    width:100px;
+}
+#sign{
+    color:blue;
+    text-align:right;
+}
+#place{
+    color:blue;
+    text-align:left;
+}
+#sig{
+    color:blue;
+    text-align:right;
+}
+body{
+    background-color:lightgrey;
+}
+ 
+    
